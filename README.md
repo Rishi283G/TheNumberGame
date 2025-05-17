@@ -27,7 +27,7 @@ No installation required — just open the link and start guessing!
 
 ## 📸 Preview
 
-![The Number Game Screenshot](https://github.com/Rishi283G/TheNumberGame/raw/main/The%20Number%20Game/screenshot.png)
+![The Number Game Screenshot](https://github.com/Rishi283G/TheNumberGame/blob/main/Screenshot%202025-05-17%20231907.png)
 
 ---
 
